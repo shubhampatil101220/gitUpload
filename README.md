@@ -4,16 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git Steps for Angular Project</title>
-    <style>
-        ul {
-            list-style-type: none;
-        }
-        li::before {
-            content: "👉 ";
-            color: blue;
-        }
-    </style>
+   
 </head>
 <body>
     <h1>Git Steps for Angular Project</h1>
