@@ -18,7 +18,7 @@
         <li>Check the status of your repository to see the changes that have been staged:</li>
         <pre><code>git status</code></pre>
         <li>Rename the current branch to "main":</li>
-        <pre><code>git branch -M main</code></pre>
+        <pre><code>git branch -M master</code></pre>
         <li>Add a remote repository where your local repository will be pushed:</li>
         <pre><code>git remote add origin https://github.com/shubhampatil101220/ChatApp.git</code></pre>
         <li>Push the changes from your local repository to the remote repository:</li>
