@@ -22,7 +22,7 @@
         <li>Add a remote repository where your local repository will be pushed:</li>
         <pre><code>git remote add origin https://github.com/shubhampatil101220/ChatApp.git</code></pre>
         <li>Push the changes from your local repository to the remote repository:</li>
-        <pre><code>git push -u origin main</code></pre>
+        <pre><code>git push -u origin master</code></pre>
     </ol>
 </body>
 </html>
